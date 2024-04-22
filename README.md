@@ -5,7 +5,7 @@ This GitHub repository hosts a powerful simulation tool for intrinsic proteins, 
 
 ## Getting Started
 
-This section provides detailed instructions on setting up the project on your local machine for development and testing purposes.
+
 
 ### Prerequisites
 
