@@ -13,4 +13,7 @@ Instructions:
 Ensure the following software and libraries are installed on your system:
 - Python 3.8 or higher
 - Installation Instructions:
-- pip install numpy matplotlib biopython pandas seaborn
+```bash
+pip install numpy matplotlib biopython pandas seaborn
+```
+
