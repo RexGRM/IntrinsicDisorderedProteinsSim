@@ -3,6 +3,8 @@
 
 This GitHub repository hosts a powerful simulation tool for intrinsic proteins, utilizing Monte Carlo methods to analyze and visualize protein characteristics such as charges, hydrophobicity, and disorderness. The software processes Protein Data Bank (PDB) files to output manipulated PDB files, detailed visualizations, and insightful graphs depicting key protein properties.
 
+## Updates
+
 ## Getting Started
 Instructions:
 -
