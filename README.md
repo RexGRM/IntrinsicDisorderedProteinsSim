@@ -18,4 +18,5 @@ Ensure the following software and libraries are installed on your system:
 ```bash
 pip install numpy matplotlib biopython pandas seaborn
 ```
+-Download PDB protein files @ https://www.rcsb.org/
 
