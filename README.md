@@ -7,8 +7,9 @@ This GitHub repository hosts a powerful simulation tool for intrinsic proteins, 
 
 ## Getting Started
 Instructions:
+
 ```bash
-python test2.py -pdb /Users/rexgeng/Downloads/project/main/tau.pdb -t 140 -i 20 -w1 1 -w2 0.1 -ph 7
+python test2.py -pdb Downloads/tau.pdb -t 140 -i 20 -w1 1 -w2 0.1 -ph 7
 PDB
 ```
 
