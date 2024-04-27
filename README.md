@@ -18,6 +18,7 @@ PDB
 
 Ensure the following software and libraries are installed on your system:
 - Python 3.8 or higher
+- pip installed
 - Installation Instructions:
 ```bash
 pip install numpy matplotlib biopython pandas seaborn
