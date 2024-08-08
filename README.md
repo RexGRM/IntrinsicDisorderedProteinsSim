@@ -38,7 +38,7 @@ By utilizing these features, researchers can gain valuable insights into the beh
 
 ## Contributing
 
-We welcome contributions to enhance and extend this tool. Please refer to our [CONTRIBUTING.md](CONTRIBUTING.md) file for guidelines on how to get involved.
+We welcome contributions to enhance and extend this tool. Please refer to our [CONTRIBUTION.md](CONTRIBUTION.md) file for guidelines on how to get involved.
 
 ## License
 
