@@ -58,6 +58,12 @@ Instructions:
 python test2.py -pdb Downloads/tau.pdb -t 140 -i 20 -w1 1 -w2 0.1 -ph 7
 PDB
 ```
+-replace test2.py with the location of test2.py file in your computer
+-replace Downloads/tau.pdb with the location of the target protein pdb file
+```bash
+python test2.py -h
+```
+-See help and the list of parameters
 
 
 ### Prerequisites/requirements
