@@ -32,9 +32,6 @@ The Intrinsically Disordered Protein Simulation Tool offers several key features
 
 By utilizing these features, researchers can gain valuable insights into the behavior and functional implications of intrinsically disordered proteins.
 
-## Usage
-
-[Include instructions on how to install and use the tool here, including any prerequisites and examples of commands or input files.]
 
 ## Contributing
 
