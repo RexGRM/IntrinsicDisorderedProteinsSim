@@ -62,6 +62,51 @@ python test2.py -h
 ```
 -See help and the list of parameters
 
+```bash
+usage: test2.py [-h] [-type INPUT_TYPE] [-fasta FASTA_FILE] [-pdb PDB_FILE]
+                [-rt TRIAL] [-d DIRECTORY] [-t TEMPERATURE] [-i ITERATION]
+                [-w1 WEIGHT1] [-w2 WEIGHT2] [-ph PH] [-n NUMBER_PROTEIN]
+                [-lower LOWER] [-upper UPPER] [-range RANGE]
+                [-duplex DUPLEX_LENGTH] [-u UNSTRUCTURE_LENGTH]
+
+cgRNA STS design scanner from introns
+
+optional arguments:
+  -h, --help            show this help message and exit
+  -type INPUT_TYPE, --input_type INPUT_TYPE
+                        input type FASTA or PDB
+  -fasta FASTA_FILE, --fasta_file FASTA_FILE
+                        FASTA sequence
+  -pdb PDB_FILE, --pdb_file PDB_FILE
+                        path to the input pdb file
+  -rt TRIAL, --trial TRIAL
+                        number of different random versions of the protein
+                        generated(default 5)
+  -d DIRECTORY, --directory DIRECTORY
+                        output_directory
+  -t TEMPERATURE, --temperature TEMPERATURE
+                        Temperature in K
+  -i ITERATION, --iteration ITERATION
+                        Simulation iterations defaulted 100 (recommand
+                        500-5000)
+  -w1 WEIGHT1, --weight1 WEIGHT1
+                        weight of charge used in energy calculation
+  -w2 WEIGHT2, --weight2 WEIGHT2
+                        weight of hydrophobicity used in energy calculation
+  -ph PH, --ph PH       ph level of the simultation environment
+  -n NUMBER_PROTEIN, --number_protein NUMBER_PROTEIN
+                        number of protein in the simulation
+  -lower LOWER, --lower LOWER
+                        minimum window stride size for visualization
+  -upper UPPER, --upper UPPER
+                        maximum window stride size for visualization
+  -range RANGE          The range of the number of sequences in FASTA file to
+                        scan (e.g., "0-100")
+  -duplex DUPLEX_LENGTH, --duplex_length DUPLEX_LENGTH
+                        length of the nucleotides in duplex
+  -u UNSTRUCTURE_LENGTH, --unstructure_length UNSTRUCTURE_LENGTH
+                        length of the unstructured nucleotides
+```
 
 ### Prerequisites/requirements
 
