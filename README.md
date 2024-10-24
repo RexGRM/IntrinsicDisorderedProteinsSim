@@ -1,4 +1,4 @@
-# IntrinsicDisorderedProteinSim
+# Alz-IDProteinExplorer
 
 ## Introduction
 
